@@ -1,8 +1,8 @@
 <?php
 
-namespace Korkoshko\BestChange\Methods;
+namespace AT\BestChange\Methods;
 
-use Korkoshko\BestChange\{
+use AT\BestChange\{
     Interfaces\MethodInterface,
     Transformers\AbstractTransformer,
     Transformers\CurrencyTransformer
