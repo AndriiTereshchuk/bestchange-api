@@ -1,8 +1,8 @@
 <?php
 
-namespace AT\BestChange\Services;
+namespace ATereshchuk\BestChange\Services;
 
-use AT\BestChange\Interfaces\HttpDownloaderInterface;
+use ATereshchuk\BestChange\Interfaces\HttpDownloaderInterface;
 use Psr\Http\Message\ResponseInterface;
 use GuzzleHttp\{
     ClientInterface,
