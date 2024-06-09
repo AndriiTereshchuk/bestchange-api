@@ -1,7 +1,7 @@
 <?php
 
-use Korkoshko\BestChange\BestChange;
-use Korkoshko\BestChange\Methods\CurrencyCodeMethod;
+use ATereshchuk\BestChange\BestChange;
+use ATereshchuk\BestChange\Methods\CurrencyCodeMethod;
 
 require_once __DIR__ . '/../vendor/autoload.php';
 
