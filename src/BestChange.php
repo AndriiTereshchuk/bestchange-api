@@ -1,9 +1,9 @@
 <?php
 
-namespace AT\BestChange;
+namespace ATereshchuk\BestChange;
 
 use Generator;
-use AT\BestChange\{
+use ATereshchuk\BestChange\{
     Interfaces\MethodInterface,
     Interfaces\ZipReaderInterface,
     Interfaces\HttpDownloaderInterface,
