@@ -1,6 +1,6 @@
 <?php
 
-namespace Korkoshko\BestChange\Interfaces;
+namespace AT\BestChange\Interfaces;
 
 use Psr\Http\Message\ResponseInterface;
 
