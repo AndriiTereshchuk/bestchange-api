@@ -1,9 +1,9 @@
 <?php
 
-namespace Korkoshko\BestChange;
+namespace AT\BestChange;
 
 use Generator;
-use Korkoshko\BestChange\{
+use AT\BestChange\{
     Interfaces\MethodInterface,
     Interfaces\ZipReaderInterface,
     Interfaces\HttpDownloaderInterface,
