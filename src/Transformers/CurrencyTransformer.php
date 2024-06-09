@@ -1,6 +1,6 @@
 <?php
 
-namespace AT\BestChange\Transformers;
+namespace ATereshchuk\BestChange\Transformers;
 
 class CurrencyTransformer extends AbstractTransformer
 {
