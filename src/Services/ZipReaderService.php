@@ -1,10 +1,10 @@
 <?php
 
-namespace AT\BestChange\Services;
+namespace ATereshchuk\BestChange\Services;
 
 use Generator;
 use ZipArchive;
-use AT\BestChange\{
+use ATereshchuk\BestChange\{
     Interfaces\ZipReaderInterface,
     Transformers\AbstractTransformer
 };
