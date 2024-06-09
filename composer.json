@@ -1,5 +1,5 @@
 {
-  "name": "korkoshko/bestchange-api",
+  "name": "at/bestchange-api",
   "description": "A simple package for working with the pseudo API of the bestchage.ru",
   "type": "library",
   "keywords": [
@@ -11,12 +11,12 @@
   ],
   "require": {
     "ext-zip": "^1.15",
-    "php": "7.4.*",
+    "php": "^7.4.*",
     "guzzlehttp/guzzle": "^6.0|^7.0"
   },
   "autoload": {
     "psr-4": {
-      "Korkoshko\\BestChange\\": "src/"
+      "AT\\BestChange\\": "src/"
     }
   },
   "license": "MIT",
