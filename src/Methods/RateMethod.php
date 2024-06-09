@@ -1,8 +1,8 @@
 <?php
 
-namespace AT\BestChange\Methods;
+namespace ATereshchuk\BestChange\Methods;
 
-use AT\BestChange\{
+use ATereshchuk\BestChange\{
     Interfaces\MethodInterface,
     Transformers\AbstractTransformer,
     Transformers\RateTransformer
