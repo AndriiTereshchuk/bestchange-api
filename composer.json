@@ -1,5 +1,5 @@
 {
-  "name": "at/bestchange-api",
+  "name": "atereshchuk/bestchange-api",
   "description": "A simple package for working with the pseudo API of the bestchage.ru",
   "type": "library",
   "keywords": [
@@ -16,7 +16,7 @@
   },
   "autoload": {
     "psr-4": {
-      "AT\\BestChange\\": "src/"
+      "ATereshchuk\\BestChange\\": "src/"
     }
   },
   "license": "MIT",
