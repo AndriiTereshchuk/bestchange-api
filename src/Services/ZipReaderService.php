@@ -1,10 +1,10 @@
 <?php
 
-namespace Korkoshko\BestChange\Services;
+namespace AT\BestChange\Services;
 
 use Generator;
 use ZipArchive;
-use Korkoshko\BestChange\{
+use AT\BestChange\{
     Interfaces\ZipReaderInterface,
     Transformers\AbstractTransformer
 };
