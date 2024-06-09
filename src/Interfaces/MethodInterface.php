@@ -1,8 +1,8 @@
 <?php
 
-namespace AT\BestChange\Interfaces;
+namespace ATereshchuk\BestChange\Interfaces;
 
-use AT\BestChange\Transformers\AbstractTransformer;
+use ATereshchuk\BestChange\Transformers\AbstractTransformer;
 
 interface MethodInterface
 {
