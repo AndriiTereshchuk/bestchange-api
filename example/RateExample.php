@@ -1,6 +1,6 @@
 <?php
 
-use Korkoshko\BestChange\BestChange;
+use ATereshchuk\BestChange\BestChange;
 
 require_once __DIR__ . '/../vendor/autoload.php';
 
