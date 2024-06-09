@@ -1,7 +1,7 @@
 <?php
 
-use Korkoshko\BestChange\BestChange;
-use Korkoshko\BestChange\Methods\InfoMethod;
+use ATereshchuk\BestChange\BestChange;
+use ATereshchuk\BestChange\Methods\InfoMethod;
 
 require_once __DIR__ . '/../vendor/autoload.php';
 
