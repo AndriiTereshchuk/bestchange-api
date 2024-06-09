@@ -1,8 +1,8 @@
 <?php
 
-namespace Korkoshko\BestChange\Interfaces;
+namespace AT\BestChange\Interfaces;
 
-use Korkoshko\BestChange\Transformers\AbstractTransformer;
+use AT\BestChange\Transformers\AbstractTransformer;
 
 interface MethodInterface
 {
